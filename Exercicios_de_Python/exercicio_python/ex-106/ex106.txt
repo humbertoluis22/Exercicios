@@ -1,0 +1,3 @@
+106 – Reescreva a estrutura de código abaixo, de um simples 
+programa que gera uma lista com as possíveis combinações entre duas 
+outras listas [1,2,3] e [4,5,6], reduzindo e otimizando a mesma via list comprehension

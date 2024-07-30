@@ -1,0 +1,1 @@
+60 - Crie uma função que pode conter dois ou mais parâmetros, porém sem um número definido e declarado de parâmetros

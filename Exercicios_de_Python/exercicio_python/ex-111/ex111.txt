@@ -1,0 +1,5 @@
+111 – Escreva um programa que gera um número aleatório entre 0 a 10, 
+salvando esse número em uma variável, onde o usuário é convidado a interagir 
+tentando adivinhar qual foi o número gerado até acertar. Caso o usuário acerte o número, 
+exiba uma mensagem o parabenizando, também exibindo incorporado em uma mensagem o número em si. 
+

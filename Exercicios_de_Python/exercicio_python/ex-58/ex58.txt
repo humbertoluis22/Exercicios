@@ -1,0 +1,2 @@
+58 - Crie uma função com dois parâmetros, sendo um deles com um dado/valor predeterminado
+

@@ -1,0 +1,6 @@
+96 – Crie uma estrutura toda orientada a objetos que recebe do 
+usuário uma string qualquer, retornando a mesma com todas suas 
+letras convertidas para letra maiúscula. Os métodos de classe para cada f
+uncionalidade devem ser independentes entre si, porém trabalhar no escopo 
+geral da classe.
+

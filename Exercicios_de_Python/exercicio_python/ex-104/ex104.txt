@@ -1,0 +1,7 @@
+104 – Crie uma estrutura orientada a objetos híbrida, 
+para cadastro de usuários, 
+que permita ser instanciada por uma variável de modo que a mesma 
+pode ou não repassar argumentos para seus objetos de classe na hora 
+em que instancia tal classe. Para isso, a classe deve conter atributos/objetos 
+de classe padrão e instanciáveis de fora da classe.
+

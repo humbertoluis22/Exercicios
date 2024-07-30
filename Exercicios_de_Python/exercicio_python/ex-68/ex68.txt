@@ -1,0 +1,6 @@
+68 - Crie uma classe Pessoa, instancie a mesma por meio de uma variável 
+e crie alguns 
+atributos de classe dando características a essa pessoa. 
+Por fim exiba em tela alguma 
+mensagem que incorpore os atributos de classe criados:
+

@@ -1,0 +1,5 @@
+numeros = input('digite uma sequencia de numeros separados por virgula: ')
+lista_numeros = numeros.split(',')
+print(lista_numeros)
+lista_numeros.sort()
+print(lista_numeros)

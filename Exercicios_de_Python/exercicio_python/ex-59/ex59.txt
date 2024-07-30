@@ -1,0 +1,3 @@
+59 - Crie uma função com três parâmetros, 
+sendo dois deles com dados/valores padrão,
+alterando o terceiro deles contornando o paradigma da justaposição de argumentos

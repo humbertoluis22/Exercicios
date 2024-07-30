@@ -1,0 +1,2 @@
+112 – Escreva um programa que executa um bloco de código situado dentro de um comentário.
+

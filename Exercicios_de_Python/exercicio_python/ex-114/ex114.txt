@@ -1,0 +1,4 @@
+114 – Escreva um programa que lê uma palavra ou frase digitada pelo usuário, 
+retornando o número de letras maiúsculas e minúsculas da mesma. 
+Usar apenas de lógica e de funções embutidas ao sistema.
+

@@ -1,0 +1,3 @@
+35 - Crie um programa que pede ao usuário que o mesmo digite um número qualquer,
+ em seguida retorne se esse número é primo ou não, caso não,
+ retorne também quantas vezes esse número é divisível

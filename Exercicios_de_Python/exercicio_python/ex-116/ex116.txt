@@ -1,0 +1,4 @@
+116 – Escreva um programa que verifica se um 
+endereço de site foi digitado corretamente, validando se em tal endereço constam o 
+prefixo ‘www.’ E o sufixo ‘.com.br’, pedindo que o usuário digite repetidas vezes o endereço até o mesmo for validado como correto.
+

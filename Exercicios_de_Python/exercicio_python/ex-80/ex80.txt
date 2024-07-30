@@ -1,0 +1,3 @@
+80 - Escreva um programa que recebe um texto do usuário e o 
+converte para código Morse, 
+exibindo em tela o texto em formato Morse, seguindo a padronização “ . - " (ponto, traço).

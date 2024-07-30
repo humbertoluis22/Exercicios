@@ -1,0 +1,4 @@
+117 – Escreva um programa que recebe uma lista de elementos mistos, 
+trocando de posições apenas o primeiro e o último elemento. 
+Lista de referência [11, 22, 33, 44, 55, 66, 77, 88, 99, ‘X’].
+

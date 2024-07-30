@@ -1,0 +1,4 @@
+88 – A partir de uma lista composta apenas de dados numéricos, 
+gere outra lista usando de list comprehension usando como base a 
+lista anterior, compondo a nova com os valores dos elementos 
+originais elevados ao cubo

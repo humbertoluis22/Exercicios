@@ -1,0 +1,4 @@
+99 – Reescreva o código anterior adicionando um mecanismo simples de 
+validação que verifica se os dados inseridos pelo usuário são 
+de tipos numéricos, caso não sejam, que o processo seja encerrado.
+

@@ -1,0 +1,4 @@
+76 - Escreva um programa, uma calculadora simples de 4 operações, 
+onde o usuário escolherá entre uma das 4 operações (soma, subtração, multiplicação e divisão). 
+Lembrando que o usuário digitará apenas dois valores, e escolherá apenas uma operação matemática do menu.
+

@@ -1,0 +1,4 @@
+77 - Crie uma função que recebe um número e retorna o 
+mesmo dividido em duas metades, 
+sendo cada metade um elemento de uma lista
+

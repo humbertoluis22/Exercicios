@@ -1,0 +1,3 @@
+109 – Dada a seguinte lista simples de elementos [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21], 
+transforme a mesma em um objeto do tipo array, em seguida exiba em tela o tamanho dessa array (número de elementos), 
+separadamente, exiba o tamanho da array em bytes e seu marcador de posição alocada em memória.

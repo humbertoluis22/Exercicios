@@ -1,0 +1,3 @@
+89 – Dada uma estrutura inicial de um carrinho de compras com 5 itens e seus 
+respectivos valores, assim como uma função que soma os valores dos itens do carrinho, 
+retornando um valor total. Aprimore a função deste código usando de list comprehension

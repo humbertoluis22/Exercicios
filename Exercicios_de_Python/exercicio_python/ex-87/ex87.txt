@@ -1,0 +1,1 @@
+87 – Crie um programa que exibe a versão atual do Python instalada no sistema

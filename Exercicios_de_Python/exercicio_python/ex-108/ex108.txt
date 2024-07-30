@@ -1,0 +1,4 @@
+108 – Crie uma array composta de 6 elementos aleatórios, porém com valores 
+sequenciais crescentes. Uma vez criada a array, 
+exiba em tela seu conteúdo em seu formato original, e em seu formato invertido.
+

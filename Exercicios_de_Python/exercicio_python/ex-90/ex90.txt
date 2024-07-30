@@ -1,0 +1,4 @@
+90 – Escreva uma função que recebe do usuário um número qualquer e 
+retorna para o mesmo tal número elevado ao quadrado. 
+Crie uma documentação para essa função que possa ser acessada 
+pelo usuário diretamente via IDE. 

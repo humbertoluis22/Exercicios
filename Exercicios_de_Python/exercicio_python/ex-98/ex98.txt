@@ -1,0 +1,7 @@
+98 – Crie um programa que gera o valor de salário de 
+funcionários considerando apenas horas trabalhadas e 
+horas extras, sendo o valor fixo da hora trabalhada R$29,11 e da 
+hora extra R$5,00. Crie uma regra onde o funcionário só tem direito 
+a receber horas extras a partir de 40 horas trabalhadas da forma convencional.
+
+

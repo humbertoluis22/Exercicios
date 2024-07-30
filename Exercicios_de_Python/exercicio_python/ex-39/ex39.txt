@@ -1,0 +1,2 @@
+39 - Dada a seguinte lista: nomes = [‘Ana’, ‘Carlos’, ‘Daiane’, ‘Fernando’, ‘Maria’],
+substitua o terceiro elemento da lista por ‘Jamile’

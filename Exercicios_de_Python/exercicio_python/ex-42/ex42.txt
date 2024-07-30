@@ -1,0 +1,2 @@
+42 - Remova o elemento ‘Carlos’ da lista nomes:
+

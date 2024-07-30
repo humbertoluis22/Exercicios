@@ -1,0 +1,5 @@
+110 – Escreva um programa que, usando puramente de lógica, 
+encontra todos os números que são divisíveis por 7 e múltiplos de 5, 
+dentro do intervalo de 0 a 500 (incluindo tais valores). 
+
+

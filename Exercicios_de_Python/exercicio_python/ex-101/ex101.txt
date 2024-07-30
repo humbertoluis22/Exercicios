@@ -1,0 +1,6 @@
+101 – Crie uma estrutura molde (orientada a objetos) para cadastro de veículos, 
+tendo como características que os descrevem sua marca, 
+modelo, ano, cor e valor. Cadastre ao menos três veículos, 
+revelando seu número identificador de objeto alocado em memória, 
+assim como o retorno esperado pelo usuário quando o mesmo consultar tal veículo.
+

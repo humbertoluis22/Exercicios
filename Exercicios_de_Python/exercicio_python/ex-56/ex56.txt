@@ -1,0 +1,2 @@
+56 - Crie uma função que recebe um valor digitado pelo usuário e eleva esse valor ao quadrado:
+

@@ -1,0 +1,4 @@
+105 – Gere uma lista com 50 elementos ordenados de forma crescente. 
+Inicialmente usando do método convencional (e do construtor de listas padrão), 
+posteriormente reescrevendo o código usando de list comprehension. 
+

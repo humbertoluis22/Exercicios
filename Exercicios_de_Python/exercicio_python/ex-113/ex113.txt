@@ -1,0 +1,5 @@
+113 – Escreva um programa que recebe uma palavra qualquer do usuário, 
+aplicando sobre a mesma uma formatação de estilo, retornando a mesma com 
+marcadores para negrito, itálico e sublinhado. As funções que aplicam os 
+estilos devem ser separadas entre si, porém executadas em conjunto via decoradores para uma função principal.
+

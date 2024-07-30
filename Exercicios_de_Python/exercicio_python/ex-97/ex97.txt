@@ -1,0 +1,3 @@
+97 – Escreva de forma reduzida um programa que recebe do 
+usuário um nome e duas notas, salvando tais dados como um elemento de uma lista. 
+Exiba em tela o conteúdo dessa lista.

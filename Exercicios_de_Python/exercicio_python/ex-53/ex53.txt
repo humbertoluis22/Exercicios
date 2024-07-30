@@ -1,0 +1,2 @@
+53 - Crie uma função que retorna um valor padrão
+

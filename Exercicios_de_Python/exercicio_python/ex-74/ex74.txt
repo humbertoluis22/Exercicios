@@ -1,0 +1,1 @@
+74 - Mostre via terminal a string ‘Bem vindo ao mundo da programação!!!’ de trás para frente usando indexação

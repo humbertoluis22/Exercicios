@@ -1,0 +1,1 @@
+52 - Atribua a função funcao1 a uma variável
